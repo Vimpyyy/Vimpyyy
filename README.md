@@ -52,10 +52,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/visal harshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="visal harshana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/visal harshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="visal harshan" height="30" width="40" /></a>
 <a href="https://fb.com/visal harshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="visal harshana" height="30" width="40" /></a>
 <a href="https://instagram.com/____.v.impy.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____.v.impy.__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/master vimpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mastervimpy7809" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/master vimpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@mastervimpy7809?si=gHtni2BWUb6Jp87t" height="30" width="40" /></a>
 </p>
 
 ---
